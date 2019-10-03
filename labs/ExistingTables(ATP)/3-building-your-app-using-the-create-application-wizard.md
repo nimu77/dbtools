@@ -132,4 +132,4 @@
 
 ![](images/section3/3.11.PNG)
 
-David's Edit. [Click here to navigate to Module 4](4-recreating-the-pp-improving-the-generated-app.md)  
+David's Edit. [Click here to navigate to Module 4](4-recreating-the-app-improving-the-generated-app.md)  
