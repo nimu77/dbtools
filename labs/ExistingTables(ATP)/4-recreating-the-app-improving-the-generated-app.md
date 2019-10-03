@@ -66,4 +66,4 @@ The previously defined app definition will be displayed.
 - Navigate to **Milestones**
 ![](images/section4/4.9.PNG)
 
-David's Edit. [Click here to navigate to Module 5](5-using-page-designer-updating-the-milestones-page)  
+David's Edit. [Click here to navigate to Module 5](5-using-page-designer-updating-the-milestones-page.md)  
