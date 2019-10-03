@@ -7,13 +7,13 @@
 - In the runtime environment, within the Navigation Menu, click **Tasks**
 - In the Develop Toolbar (bottom of the screen), click **Edit Page 5**
 
-![](images/section7/7.1.png)
+![](images/section7/7.1.PNG)
 
 - In Page Designer, within the Rendering tree (left panel), under Sample Project Tasks region, click **Columns**
 - Click **PROJECT_ID_L$1**
 - In the Property Editor (right pane), for Heading enter **Project**
 
-![](images/section7/7.1(1).png)
+![](images/section7/7.1(1).PNG)
 
 - In the Rendering tree (left panel), click **MILESTONE_ID_L$1**
 - In the Property Editor (right pane), for Heading enter **Milestone**
@@ -21,14 +21,14 @@
 - In the Property Editor (right pane), for Heading enter **Complete?**
 - Click **Save**
 
-![](images/section7/7.1(2).png)
+![](images/section7/7.1(2).PNG)
 
 ### **Part 2** - Adding Select Lists
 
 - In the runtime environment, click the edit icon for a Task
 - In the Develop Toolbar (bottom of the screen), click **Edit Page 6**
 
-![](images/section7/7.2.png)
+![](images/section7/7.2.PNG)
 
 - In Page Designer, within the Rendering tree (left panel), click **P6_PROJECT_ID**
 - In the Property Editor (right pane), enter the following:
@@ -43,7 +43,7 @@
    - Display Extra Values click **No**
    - Null Display Value enter **– Select Project -**
 
-![](images/section7/7.2(1).png)
+![](images/section7/7.2(1).PNG)
 
 - In Page Designer, within the Rendering tree (left panel), click **P6_MILESTONE_ID**
 - In the Property Editor (right pane), enter the following:
@@ -65,7 +65,7 @@
    - Identification > Type select **Switch**
    - Label > Label enter **Complete?**
 
-![](images/section7/7.3.png)
+![](images/section7/7.3.PNG)
 
 ### **Part 4** - Create the Audit Details Region
 
@@ -73,13 +73,13 @@
    - Right-click on **Sample Project Tasks**
    - Click Create **Sub Region**
 
-![](images/section7/7.4.png)
+![](images/section7/7.4.PNG)
 
 - In the Property Editor (right pane), enter the following:
    - Identification > Name enter **Audit Details**
    - Appearance > Template select **Collapsible**
 
-![](images/section7/7.4(1).png)
+![](images/section7/7.4(1).PNG)
 
 ### **Part 5** - Move the audit columns
 
@@ -90,7 +90,7 @@
    - Layout > Region select **..Audit Details**
 - Click **Save**
 
-![](images/section7/7.5.png)
+![](images/section7/7.5.PNG)
 
 ### **Part 6** - Review the Page
 
@@ -98,6 +98,6 @@
 - Click the edit icon for a Task  
 *Note: The date items include a date picker and the numeric item (Cost) gives an error when saving if non-numeric values are entered*
 
-![](images/section7/7.6.png)
+![](images/section7/7.6.PNG)
 
 David's Edit. [Click here to navigate to Module 8](8-linking-pages-link-the-calendar-to-the-tasks-form-pages.md)
