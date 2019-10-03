@@ -19,7 +19,7 @@ Please note this lab assumes that you already have the Autonomous Data Warehouse
 | 1 | [Obtaining a Workspace](1-getting-started-obtaining-a-workspace.md) | 5 min |
 | 2 | [Installing Sample Tables](2-building-your-table-and-view-installing-sample-tables.md) | 5 min |
 | 3 | [Using the Create Application Wizard](3-building-your-app-using-the-create-application-wizard.md) | 20 min |
-| 4 | [Improving the Generated App](4-recreating-the-pp-improving-the-generated-app.md) | 30 min |
+| 4 | [Improving the Generated App](4-recreating-the-app-improving-the-generated-app.md) | 30 min |
 | 5 | [Updating the Milestones Page](5-using-page-designer-updating-the-milestones-page.md) | 30 min |
 | 6 | [Add the Project Form Page](6-creating-a-page-to-update-project-records-add-the-project-form-page.md) | 30 min |
 | 7 | [Updating the Task Pages](7-improving-usability-updating-the-task-pages.md) | 30 min |
