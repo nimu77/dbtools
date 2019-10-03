@@ -73,4 +73,4 @@ which service(s) you have defined.
 
 ## Summary
 
-This completes Module 1. At this point, you know how to log into your cloud account and create a APEX workspace. [Click here to navigate to Module 2](2-building-your-first-app-creating-an-app-from-a-spreadsheet.md)
+This completes Module 1. At this point, you know how to log into your cloud account and create a APEX workspace. [Click here to navigate to Module 2](2-building-your-table-and-view-installing-sample-tables.md)
