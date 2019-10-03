@@ -10,10 +10,7 @@ Please note this lab assumes that you already have the Autonomous Data Warehouse
 
 ## Lab Objectives
 
-* Obtaining a Workspace
-* Building your first app through uploading a Spreadsheet
-* Improving the Interactive Report
-* Adding a Calendar
+
 
 ## Lab Modules
 
