@@ -7,12 +7,12 @@
 - There is no form page to manage Projects details
    - In the runtime environment, within the developer toolbar, click **Application xxxxx**
    -  In the Application Home Page, click **Create Page**
-![](images/section6/6.1.png)
+![](images/section6/6.1.PNG)
 
 - In the wizard, click **Form**  
-![](images/section6/6.1(1).png)
+![](images/section6/6.1(1).PNG)
 - Click **Form**  
-![](images/section6/6.1(2).png)
+![](images/section6/6.1(2).PNG)
 
 - Enter the following:
    - Page Name – enter **Maintain Project**
@@ -21,22 +21,22 @@
    - Parent Entry – select **Projects (Page 3)**
 - Click **Next** 
 
-![](images/section6/6.1(3).png)
+![](images/section6/6.1(3).PNG)
 - For Navigation Preference, select **Identify an existing navigation menu entry for this page**
 - For Existing Navigation Menu Entry, select **Projects**
 - Click **Next**  
 
-![](images/section6/6.1(4).png)
+![](images/section6/6.1(4).PNG)
 
 - For Table/ View Name, select **SAMPLE$PROJECTS (table)**
 - Click **Next**
 
-![](images/section6/6.1(5).png)  
+![](images/section6/6.1(5).PNG)  
 
 - For Primary Key Column, select **ID (Number)**
 - Click **Create**  
 
-![](images/section6/6.1(6).png)
+![](images/section6/6.1(6).PNG)
 
 ### **Part 2** - Update the Status Item
 
@@ -52,7 +52,7 @@
    ~~~~
   - Display Extra Values click **No**
   - Null Display Value enter **– Select Status -**  
-  ![](images/section6/6.2.png)
+  ![](images/section6/6.2.PNG)
 
 ### **Part 3** - Create the Audit Details Region
 
@@ -60,13 +60,13 @@
   - In Page Designer, right-click on **Create Form**
   - Click **Create Sub Region**
 
-   ![](images/section6/6.3.png)
+   ![](images/section6/6.3.PNG)
 
 - In the Property Editor (right pane), enter the following:
    - Identification > Name enter **Audit Details**
    - Appearance > Template select **Collapsible**
 
-    ![](images/section6/6.3(1).png)
+    ![](images/section6/6.3(1).PNG)
 
 ### **Part 4** - Move the audit columns
 
@@ -77,14 +77,14 @@ and click **P8_UPDATED_BY**
    - Identification > Type select **Display Only**
    - Layout > Region select **..Audit Details**
 - Click **Save**  
-![](images/section6/6.4.png)
+![](images/section6/6.4.PNG)
 
 ### **Part 5** - Link to Projects Page
 
 - In the Application Toolbar, click the page selector in front of the page number (8)
 - Click **3**, for the Projects page
 
-![](images/section6/6.5.png)
+![](images/section6/6.5.PNG)
 
 - In the Rendering tree (left pane), select **Projects**
 - In the Property Editor (right pane), click **Code Editor**
@@ -93,7 +93,7 @@ and click **P8_UPDATED_BY**
 {f?p= is the call to an APEX page; :APP_ID is the Application Id; 8 is the target page (Project form page); :APP_SESSION is the current user’s session; P8_ID is an item on the target page; id is the primary key from the Projects table}
 - Click **OK**
 - Click **Save**  
-![](images/section6/6.5(1).png)
+![](images/section6/6.5(1).PNG)
 
 ### **Part 6** - Test the Project Pages
 
@@ -101,6 +101,6 @@ and click **P8_UPDATED_BY**
 - Click a card record to display the corresponding record in the form page
 - Make changes and click **Apply Changes**, or click **Cancel**
 
-![](images/section6/6.6.png)
+![](images/section6/6.6.PNG)
 
 David's Edit. [Click here to navigate to Module 7](7-improving-usability-updating-the-task-pages.md)
